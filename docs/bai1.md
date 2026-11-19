@@ -1,4 +1,7 @@
-# Bài 1 – Tổng quan hệ thống và các mô hình trao đổi thông điệp (MEP) 
+# Bài 1 – Tổng quan hệ thống và các mô hình trao đổi thông điệp (MEP)
+
+**Họ và tên:** Dương Thị Tiến  
+**MSSV:** dtc245200850  
 **Repository GitHub:** https://github.com/dtc245200850-spec/EduSubmit-dtc245200850  
 
 ---
